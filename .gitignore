@@ -212,6 +212,13 @@ tempCodeRunnerFile.py
 # Marimo
 marimo/_static/
 marimo/_lsp/
+
+# Dataset and models
+data/raw/*
+data/processed/*
+models/*
+*.csv
+*.pkl
 __marimo__/
 
 # Streamlit
